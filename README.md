@@ -60,6 +60,10 @@ O sistema possui uma interface gráfica com as seguintes funcionalidades:
   - Reservas (cliente, quarto, data de entrada e saída)
 - Geração de relatório em PDF com todos os dados cadastrados
 
+ 
+<img width="504" height="517" alt="Captura de tela 2025-07-15 212837" src="https://github.com/user-attachments/assets/13fce02e-68c5-4884-b431-bc8420c97d35" />
+
+
 ### 3. JUSTIFICATIVA DAS ESCOLHAS
 
 - O banco de dados MySQL permite persistência real dos dados.
